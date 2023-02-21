@@ -1,0 +1,15 @@
+#packages
+*.zip
+*.rar
+*.jar
+*.tar
+#compiledsoure
+*.exe
+*.class
+*.com
+*.so
+*.dll
+#Logs and databases
+*.sql
+*.log
+*.sqllite
